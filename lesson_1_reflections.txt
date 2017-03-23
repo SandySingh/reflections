@@ -1,0 +1,38 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    By viewing two diff versions I saw that one version printed the whole file line by line 
+    comparing the lines while the other only showed the text that was not similar. The latter 
+    can be much easy to find where the bug is in the file.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in
+the long term?
+
+    I think that having access to previous versions can be helpful in finding bugs in a file cause 
+    we can find out what contents of the file got changed and see if there is any bug in that.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in
+Git, vs having versions automatically saved, like Google Docs does?
+
+    When we save manually, we know when to save and not to save too much that the history is cluttered.
+    We can save anytime we want. The con is that we can forget to save the change and close the document, 
+    then the file will not get saved and all the changes we did, we had to do them again.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+while others, like Google Docs, treat each file separately?
+
+    I think that Git saves multiple files in one commit because it becomes easier to see the changes
+    made in every file rather than seeing every file separately.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    We can view all the commits made by using git log and by copying the IDs of the commits we can
+    we can use git diff that tells us what was changed in the commits.
+
+How might using version control make you more confident to make changes that could break something?
+
+    Beacuse we can always look back at what we changed and can revert the changes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I will use Git for opening the text editor directly from Git Bash. I can travel between directories
+    and open files.
