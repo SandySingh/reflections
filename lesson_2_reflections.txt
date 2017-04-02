@@ -9,3 +9,30 @@ think it offers?
 
     Staging area has the files which have changes to be commited. It is useful as git add files into
     the staging area and we can commit that particular files.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    We can check the difference between the staging area and the latest commit which will tell us what
+    we modified in our file.
+
+What are some situations when branches would be helpful in keeping your history organized? How
+would branches help?
+
+    When we want to experiment new things in our application. As it is a branch, the master will be same
+    as before and all the changes will be made in the branch.
+
+How do the diagrams help you visualize the branch structure?
+
+    I can see how commits work and what will happen if I checkout some other commit while creating new
+    commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way
+we do?
+
+    When two branches are merged together, all of the commits are combined in a single branch with all
+    of the changes. The diagram makes it easier to understand the commits in two different branches.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+    Git's manually merging has the advantage that the conflicts can be resolved before merging while
+    in automatic merging we don't have to worry about merging all the time.
