@@ -7,3 +7,10 @@ date with your remote repository?
 
     Because this is possible that we want some changes on GitHub but not on our local repository like
     when we are experimenting something with others.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of
+another?
+
+    Forks are used when we want to copy a repository on GitHub servers whereas clone is used to copy
+    a repository on your own computer. Branches are part of repositories to make different changes such
+    that they don't affect the master.
