@@ -14,3 +14,8 @@ another?
     Forks are used when we want to copy a repository on GitHub servers whereas clone is used to copy
     a repository on your own computer. Branches are part of repositories to make different changes such
     that they don't affect the master.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    Because then we can see the differences between the remote and the changes we made locally on our
+    repository.
