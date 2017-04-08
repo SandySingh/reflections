@@ -25,3 +25,9 @@ harder?
 
     Without using Git or GitHub we have to maintain all the changes in our repository to check them
     again which would be hard. Git would be a lot easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What
+benefits does each approach have?
+
+    When we want to experiment new things in our code. By doing so we are not affecting the master.
+    But by directly changing the master we saving some time.
